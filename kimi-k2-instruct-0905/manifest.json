@@ -1,0 +1,371 @@
+[
+  {
+    "name": "doc1",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc1.pdf",
+    "work_dir": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1",
+    "pages": [
+      {
+        "page_num": 1,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_08.png"
+        ]
+      },
+      {
+        "page_num": 2,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_08.png"
+        ]
+      },
+      {
+        "page_num": 3,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_08.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "doc2",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc2.pdf",
+    "work_dir": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2",
+    "pages": [
+      {
+        "page_num": 1,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0001_band_08.png"
+        ]
+      },
+      {
+        "page_num": 2,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0002_band_08.png"
+        ]
+      },
+      {
+        "page_num": 3,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\pages\\page_0003_band_08.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "doc3",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc3.pdf",
+    "work_dir": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3",
+    "pages": [
+      {
+        "page_num": 1,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0001.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0001_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0001_band_02.png"
+        ]
+      },
+      {
+        "page_num": 2,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0002.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0002_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0002_band_02.png"
+        ]
+      },
+      {
+        "page_num": 3,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0003.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0003_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0003_band_02.png"
+        ]
+      },
+      {
+        "page_num": 4,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0004.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0004_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0004_band_02.png"
+        ]
+      },
+      {
+        "page_num": 5,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0005.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0005_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0005_band_02.png"
+        ]
+      },
+      {
+        "page_num": 6,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0006.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0006_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0006_band_02.png"
+        ]
+      },
+      {
+        "page_num": 7,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0007.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0007_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0007_band_02.png"
+        ]
+      },
+      {
+        "page_num": 8,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0008.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0008_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0008_band_02.png"
+        ]
+      },
+      {
+        "page_num": 9,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0009.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0009_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0009_band_02.png"
+        ]
+      },
+      {
+        "page_num": 10,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0010.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0010_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0010_band_02.png"
+        ]
+      },
+      {
+        "page_num": 11,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0011.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0011_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\pages\\page_0011_band_02.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "doc4",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc4.pdf",
+    "work_dir": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4",
+    "pages": [
+      {
+        "page_num": 1,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0001.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0001_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0001_band_02.png"
+        ]
+      },
+      {
+        "page_num": 2,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0002.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0002_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0002_band_02.png"
+        ]
+      },
+      {
+        "page_num": 3,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0003.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0003_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0003_band_02.png"
+        ]
+      },
+      {
+        "page_num": 4,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0004.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0004_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0004_band_02.png"
+        ]
+      },
+      {
+        "page_num": 5,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0005.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0005_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0005_band_02.png"
+        ]
+      },
+      {
+        "page_num": 6,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0006.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0006_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0006_band_02.png"
+        ]
+      },
+      {
+        "page_num": 7,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0007.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0007_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0007_band_02.png"
+        ]
+      },
+      {
+        "page_num": 8,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0008.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0008_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0008_band_02.png"
+        ]
+      },
+      {
+        "page_num": 9,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0009.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0009_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0009_band_02.png"
+        ]
+      },
+      {
+        "page_num": 10,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0010.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0010_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0010_band_02.png"
+        ]
+      },
+      {
+        "page_num": 11,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0011.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0011_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0011_band_02.png"
+        ]
+      },
+      {
+        "page_num": 12,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0012.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0012_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0012_band_02.png"
+        ]
+      },
+      {
+        "page_num": 13,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0013.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0013_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0013_band_02.png"
+        ]
+      },
+      {
+        "page_num": 14,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0014.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0014_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0014_band_02.png"
+        ]
+      },
+      {
+        "page_num": 15,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0015.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0015_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\pages\\page_0015_band_02.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "doc5",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc5.pdf",
+    "work_dir": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5",
+    "pages": [
+      {
+        "page_num": 1,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0001_band_08.png"
+        ]
+      },
+      {
+        "page_num": 2,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0002_band_08.png"
+        ]
+      },
+      {
+        "page_num": 3,
+        "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003.png",
+        "band_paths": [
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003_band_01.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003_band_02.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003_band_03.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003_band_04.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003_band_05.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003_band_06.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003_band_07.png",
+          "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\pages\\page_0003_band_08.png"
+        ]
+      }
+    ]
+  }
+]

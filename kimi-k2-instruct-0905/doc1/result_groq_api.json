@@ -1,0 +1,18 @@
+{
+  "source": "doc1",
+  "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc1.pdf",
+  "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc1_transcription.txt",
+  "pages": 3,
+  "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\raw_ocr.json",
+  "groq_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\corrected_groq.json",
+  "groq_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\transcript_groq.txt",
+  "model": "moonshotai/kimi-k2-instruct-0905",
+  "metrics": {
+    "raw_cer": 0.23356401384083045,
+    "raw_wer": 0.696078431372549,
+    "raw_exact_line_rate": 0.0,
+    "groq_cer": 0.22404844290657439,
+    "groq_wer": 0.43137254901960786,
+    "groq_exact_line_rate": 0.0
+  }
+}

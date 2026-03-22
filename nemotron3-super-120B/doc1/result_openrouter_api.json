@@ -1,0 +1,18 @@
+{
+  "source": "doc1",
+  "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc1.pdf",
+  "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc1_transcription.txt",
+  "pages": 3,
+  "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\raw_ocr.json",
+  "openrouter_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\corrected_openrouter.json",
+  "openrouter_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\transcript_openrouter.txt",
+  "model": "nvidia/nemotron-3-super-120b-a12b:free",
+  "metrics": {
+    "raw_cer": 0.23356401384083045,
+    "raw_wer": 0.696078431372549,
+    "raw_exact_line_rate": 0.0,
+    "openrouter_cer": 0.23356401384083045,
+    "openrouter_wer": 0.696078431372549,
+    "openrouter_exact_line_rate": 0.0
+  }
+}

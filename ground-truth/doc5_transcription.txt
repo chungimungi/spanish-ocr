@@ -1,0 +1,35 @@
+NOTES:	u and v are used interchangeably 	check against dictionary?
+		f and s are used interchangeably 	check against dictionary?
+		accents are inconsistent 		should be ignored (except ñ)
+		some letters have horizontal “cap”	tends to mean n follows, or ue after capped q
+		some line end hyphens not present	leave words split for now, can decide later
+		ç old spelling is always modern z	teach AI to always interpret ç as z
+
+PDF p1
+
+Número 146. 
+Junio 9 de 1857.
+De copia
+
+En esta villa de Lizarza á nueve de Junio de mil ocho- 
+cientos cincuenta y siete, ante mi el escribano real y numeral 
+de ella, y Notario publico de este Obispado de Pamplona, 
+y competente número de testigos que al final serán nom- 
+brados, comparecieron personalmente de la una parte D.ª Maria 
+Martina de Echeverria, viuda de D.n Manuel Fran.co Min- 
+teguiaga, con su legítimo hijo D.n José Ant.º Minteguiaga 
+de estado soltero; y de la otra D.n Juan Francisco de Min- 
+teguiaga viudo de D.ª Juana Maria de Goyenechea 
+con su hija legítima D.ª Manuela Josefa de Minteguiaga 
+asi bien de estado soltera, todos ellos vecinos de esta citada villa 
+y precedidas entre los mismos las venias y licencias maternales 
+y paternales prevenidas por derecho, de cuya peticion, con- 
+cesion y aceptacion reciprocas hago fé yo el escribano y Notario 
+digeron: Que al paso que se conformaron los expresados D.n José 
+Antonio y D.ª Manuela Josefa Minteguiaga en contraher 
+su matrimonio, y obtuvieron de su Santidad la dispensacion 
+del parentesco del tercero con cuarto grado de consanguinidad 
+que media entre ellos, se dieron mutua palabra de casarse 
+infacie eclesie, obligandose á que ninguno lo contraeria con 
+otra persona sin consentimiento por escrito de el otro contrayente
+

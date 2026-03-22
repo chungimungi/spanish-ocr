@@ -1,0 +1,18 @@
+{
+  "source": "doc2",
+  "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc2.pdf",
+  "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc2_transcription.txt",
+  "pages": 3,
+  "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\raw_ocr.json",
+  "mistral_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\corrected_mistral.json",
+  "mistral_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\transcript_mistral.txt",
+  "model": "mistral-large-latest",
+  "metrics": {
+    "raw_cer": 0.10194902548725637,
+    "raw_wer": 0.42933333333333334,
+    "raw_exact_line_rate": 0.0,
+    "mistral_cer": 0.06996501749125437,
+    "mistral_wer": 0.27466666666666667,
+    "mistral_exact_line_rate": 0.0
+  }
+}

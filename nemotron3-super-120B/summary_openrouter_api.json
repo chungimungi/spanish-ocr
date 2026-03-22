@@ -1,0 +1,92 @@
+[
+  {
+    "source": "doc1",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc1.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc1_transcription.txt",
+    "pages": 3,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\raw_ocr.json",
+    "openrouter_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\corrected_openrouter.json",
+    "openrouter_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\transcript_openrouter.txt",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "metrics": {
+      "raw_cer": 0.23356401384083045,
+      "raw_wer": 0.696078431372549,
+      "raw_exact_line_rate": 0.0,
+      "openrouter_cer": 0.23356401384083045,
+      "openrouter_wer": 0.696078431372549,
+      "openrouter_exact_line_rate": 0.0
+    }
+  },
+  {
+    "source": "doc2",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc2.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc2_transcription.txt",
+    "pages": 3,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\raw_ocr.json",
+    "openrouter_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\corrected_openrouter.json",
+    "openrouter_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\transcript_openrouter.txt",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "metrics": {
+      "raw_cer": 0.10194902548725637,
+      "raw_wer": 0.42933333333333334,
+      "raw_exact_line_rate": 0.0,
+      "openrouter_cer": 0.10194902548725637,
+      "openrouter_wer": 0.42933333333333334,
+      "openrouter_exact_line_rate": 0.0
+    }
+  },
+  {
+    "source": "doc3",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc3.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc3_transcription.txt",
+    "pages": 11,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\raw_ocr.json",
+    "openrouter_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\corrected_openrouter.json",
+    "openrouter_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\transcript_openrouter.txt",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "metrics": {
+      "raw_cer": 0.177007299270073,
+      "raw_wer": 0.62,
+      "raw_exact_line_rate": 0.0,
+      "openrouter_cer": 0.177007299270073,
+      "openrouter_wer": 0.62,
+      "openrouter_exact_line_rate": 0.0
+    }
+  },
+  {
+    "source": "doc4",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc4.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc4_transcription.txt",
+    "pages": 15,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\raw_ocr.json",
+    "openrouter_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\corrected_openrouter.json",
+    "openrouter_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\transcript_openrouter.txt",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "metrics": {
+      "raw_cer": 0.19150641025641027,
+      "raw_wer": 0.5083333333333333,
+      "raw_exact_line_rate": 0.0,
+      "openrouter_cer": 0.19150641025641027,
+      "openrouter_wer": 0.5083333333333333,
+      "openrouter_exact_line_rate": 0.0
+    }
+  },
+  {
+    "source": "doc5",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc5.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc5_transcription.txt",
+    "pages": 3,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\raw_ocr.json",
+    "openrouter_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\corrected_openrouter.json",
+    "openrouter_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\transcript_openrouter.txt",
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "metrics": {
+      "raw_cer": 0.12916006339144215,
+      "raw_wer": 0.3894230769230769,
+      "raw_exact_line_rate": 0.0,
+      "openrouter_cer": 0.12916006339144215,
+      "openrouter_wer": 0.3894230769230769,
+      "openrouter_exact_line_rate": 0.0
+    }
+  }
+]

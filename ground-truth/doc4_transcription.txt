@@ -1,0 +1,36 @@
+NOTES:	u and v are used interchangeably 	check against dictionary?
+		f and s are used interchangeably 	check against dictionary?
+		accents are inconsistent 		should be ignored (except ñ)
+		some letters have horizontal “cap”	tends to mean n follows, or ue after capped q
+		some line end hyphens not present	leave words split for now, can decide later
+		ç old spelling is always modern z	teach AI to always interpret ç as z
+
+PDF p1
+EN EL PLEITO que V. m. tie- 
+ne visto entre el Marques de viana 
+y Doña Eluira pimentel su hermana 
+como Hijos, y Herederos del Marques Don Pedro Pimentel 
+su Padre diff.º con don Juan alfonso pimentel Conde de Be- 
+navente como Hijo y Heredero de Don Antonio pimentel 
+su Padre diff.º Conde que fue de Venavente
+
+Se Presupone en el Hecho que Don Alfonso pimentel Conde 
+de Venavente abuelo De los Litigantes compro de su Mag.d 
+un juro de dos quentos de renta en cada un año para que 
+los gozasse el dho Don Antonio por los dias de su vida, y 
+Despues del dho Marques Don Pedro su Hermano por 
+precio de 16. q.s de marauedis que el dho Don Alfonso 
+pago por la compra del dho Juro, y se despacho priuilegio del 
+por las dhas Dos vidas sobre ciertas rentas en el contenido 
+y son las palabras del dho priuilegio importantes para la dete- 
+rminacion de este pleito las siguientes.
+
+1.ª clausula 
+Y le ha de ser dado priuilegio de ellos al dho Don Antonio pimen- 
+tel su Hijo para que goze de ellos en cada un año para en 
+toda su vida, y que por fin y muerte del dho Don Anto- 
+nio pimentel suceda, y goze de ellos Don Pedro pimentel 
+su Hermano Hijo segundo del dho conde de Venavente 
+y por muerte del dho don Pedro pimentel se consuman 
+todos los dhos Dos quentos de mrs en los nuestros
+

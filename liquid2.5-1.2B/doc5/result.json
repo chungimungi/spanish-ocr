@@ -1,0 +1,16 @@
+{
+  "source": "doc5",
+  "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc5.pdf",
+  "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc5_transcription.txt",
+  "pages": 3,
+  "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\raw_ocr.json",
+  "corrected_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\transcript.txt",
+  "metrics": {
+    "raw_cer": 0.12916006339144215,
+    "raw_wer": 0.3894230769230769,
+    "raw_exact_line_rate": 0.0,
+    "corrected_cer": 0.18858954041204437,
+    "corrected_wer": 0.40865384615384615,
+    "corrected_exact_line_rate": 0.0
+  }
+}

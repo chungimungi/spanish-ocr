@@ -1,0 +1,82 @@
+[
+  {
+    "source": "doc1",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc1.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc1_transcription.txt",
+    "pages": 3,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\raw_ocr.json",
+    "corrected_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\transcript.txt",
+    "metrics": {
+      "raw_cer": 0.23356401384083045,
+      "raw_wer": 0.696078431372549,
+      "raw_exact_line_rate": 0.0,
+      "corrected_cer": 0.486159169550173,
+      "corrected_wer": 0.7549019607843137,
+      "corrected_exact_line_rate": 0.0
+    }
+  },
+  {
+    "source": "doc2",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc2.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc2_transcription.txt",
+    "pages": 3,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\raw_ocr.json",
+    "corrected_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc2\\transcript.txt",
+    "metrics": {
+      "raw_cer": 0.10194902548725637,
+      "raw_wer": 0.42933333333333334,
+      "raw_exact_line_rate": 0.0,
+      "corrected_cer": 0.5442278860569715,
+      "corrected_wer": 0.768,
+      "corrected_exact_line_rate": 0.0
+    }
+  },
+  {
+    "source": "doc3",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc3.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc3_transcription.txt",
+    "pages": 11,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\raw_ocr.json",
+    "corrected_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc3\\transcript.txt",
+    "metrics": {
+      "raw_cer": 0.177007299270073,
+      "raw_wer": 0.62,
+      "raw_exact_line_rate": 0.0,
+      "corrected_cer": 0.36222627737226276,
+      "corrected_wer": 0.695,
+      "corrected_exact_line_rate": 0.0
+    }
+  },
+  {
+    "source": "doc4",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc4.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc4_transcription.txt",
+    "pages": 15,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\raw_ocr.json",
+    "corrected_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc4\\transcript.txt",
+    "metrics": {
+      "raw_cer": 0.19150641025641027,
+      "raw_wer": 0.5083333333333333,
+      "raw_exact_line_rate": 0.0,
+      "corrected_cer": 0.359775641025641,
+      "corrected_wer": 0.6125,
+      "corrected_exact_line_rate": 0.0
+    }
+  },
+  {
+    "source": "doc5",
+    "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc5.pdf",
+    "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc5_transcription.txt",
+    "pages": 3,
+    "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\raw_ocr.json",
+    "corrected_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc5\\transcript.txt",
+    "metrics": {
+      "raw_cer": 0.12916006339144215,
+      "raw_wer": 0.3894230769230769,
+      "raw_exact_line_rate": 0.0,
+      "corrected_cer": 0.18858954041204437,
+      "corrected_wer": 0.40865384615384615,
+      "corrected_exact_line_rate": 0.0
+    }
+  }
+]

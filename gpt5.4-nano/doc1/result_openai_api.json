@@ -1,0 +1,18 @@
+{
+  "source": "doc1",
+  "pdf_path": "C:\\Users\\aarus\\Desktop\\ocr\\data\\doc1.pdf",
+  "gt_path": "C:\\Users\\aarus\\Desktop\\ocr\\ground-truth\\doc1_transcription.txt",
+  "pages": 3,
+  "raw_text_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\raw_ocr.json",
+  "openai_corrected_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\corrected_openai.json",
+  "openai_transcript_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\transcript_openai.txt",
+  "model": "gpt-5.4-nano",
+  "metrics": {
+    "raw_cer": 0.23356401384083045,
+    "raw_wer": 0.696078431372549,
+    "raw_exact_line_rate": 0.0,
+    "openai_cer": 0.23183391003460208,
+    "openai_wer": 0.6911764705882353,
+    "openai_exact_line_rate": 0.0
+  }
+}

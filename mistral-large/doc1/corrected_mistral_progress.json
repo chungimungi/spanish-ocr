@@ -1,0 +1,80 @@
+[
+  {
+    "page_num": 1,
+    "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001.png",
+    "band_paths": [
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_01.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_02.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_03.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_04.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_05.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_06.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_07.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0001_band_08.png"
+    ],
+    "ocr_full": "ano 8 1744= Información de phiación hidalgia y humprera de Ságzene cuida ante el Benox Alcalde de esta Uta y Algorba apedon. El Andres & Mugorzuza y Saca départidas de Bajo. dos y Confirmación Andres de Mugorzuza nº1 y Sezino deerta Villa Ante Om pañizco Comomas aia Sugax; Ldioo que Soy hisp Leximo de Dominoo de Mugorzuza y Antoni de Saoartteouetta ya Difuntor Kazido yprocreado enel Matximonio Leximo de ellos, Hietto por partita Latterna de Suan de Mugorzuza y Catatina de Sa Haizteouiri su Lexima muex yporla Matterna de Bartt. de Saoartteouetta y Joseph de Saoartteou marido y muex Leximos todos Sezinos cleeradha Villa quiener y Lo somor Nobler hisor daloo desan one Christianor Viefor sin Vaza alouna de Monos Sudior Haootes, Penitenziados porla Santa En quirizion ni de otra Secta Nprouada, yanttes Vien deszen dientes Lexittimos delo Primor Poblado xer deerta M. H. L. M. L. Lrouinzia de Guipuz Coa yorioinaxios ydependiente delas Casas Sola xer Imfanzonar de Mugorzuza Reyna, Sita ynotta xia enerta Villa dela de Saoartteouetta Sita en La Villa de Heybax, dela de Gallaizteouita, Sita enla Villa de Beroara ydelade Saoartteouita sitta",
+    "ocr_bands": [
+      "ano 81744=9 Información de phacion hedalguia y comprera de Sáxexe umda ante el Benox Alcalde de deesta Uª & Algorbax apedon. El Andres de Moura",
+      "dos y Compración Andres de Muguuza nº1 y Sezino deerta Villa Anue Gm parzco Como mas aia Suax; Ldioo que",
+      "Soy bife Leximo de Domino de Muoruza y Antonio de Saoartecueta ya Difuntos Nazido yprocreado en el Matrimonio Leximo de ellos, Nietto por parte",
+      "Latterna de Suan de Muquxuza y Lattina de Sa Laizteoui su Lexma muxex ypoila Latterna de Bartt. de Saartteouitta y Josepha de Laizteoui",
+      "maxida y mujex Lemos todos Vezinos clerttadha Villa quienes y Lo somos Nobles hijos daloo desan que Christianos Vielos sin Vaza alouna de Moros Judio Haootes, Lenitenziados porla Santa En",
+      "quizion ni de otra Secta Nprouada, yanttes Vien deszen duntes Lexittimos delo Primos Poblado xer deesta M. K. L. M. L. Lrouinziade Gupuz",
+      "Coa yoxionaxios y dependiente delas Casas Sola res Imfanzonas de Muouxuza Beyna, Sitta ynotta xia enerita Villa dela de Saoaxteouetta Sitta en.",
+      "La Nilla de Aleyba, dela de Gallaizque, Suta enla Villa de Bexoara y dela de Lautteque sitta"
+    ],
+    "corrected_mistral": "año de 1744= Información de filiación hidalguía y limpieza de Sáenz de Vicuña dada ante el Benemérito Alcalde de esta Villa y Alguacil apoderado. El Andrés de Muguruza y Sacaspartidas de Bajo dos y Confirmación Andrés de Muguruza nº1 y Sezino de esta Villa Ante quien parezco Como más haya lugar; Digo que soy bisnieto legítimo de Domingo de Muguruza y Antonio de Saartecueta ya Difuntos nacido y procreado en el Matrimonio legítimo de ellos, Nieto por parte Paterna de Juan de Muguruza y Catalina de Sa Laztegui su legítima mujer y por la Materna de Bartolomé de Saartecueta y Josepha de Laztegui marido y mujer legítimos todos vezinos de esta dicha Villa quienes y Lo somos Nobles hijosdalgo de sangre y solar conocido Christianos Viejos sin raza alguna de Moros Judíos Herejes, Penitenciados por la Santa Inquisición ni de otra Secta reprobada, y antes bien descendientes legítimos delos primeros pobladores de esta M. N. L. M. L. Provincia de Guipúzcoa y originarios y dependientes de las Casas Solares Infanzonas de Muguruza Reyna, Sita y notta en esta Villa de la de Saartecueta Sita en la Villa de Aleyba, de la de Gallastegui, Sita en la Villa de Berrobi y de la de Saartecueta sita"
+  },
+  {
+    "page_num": 2,
+    "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002.png",
+    "band_paths": [
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_01.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_02.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_03.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_04.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_05.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_06.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_07.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0002_band_08.png"
+    ],
+    "ocr_full": "enla Villa de Zexain. todas quattro eneritas ferida Lrouinzia tenidas y Epuñadas por talado Casar Solariogas, y della deszendenza delas pri mexas y distinquidas familias de Lobladorres de ella, y Como tales mis Ladres Abuelor, y demas aczentiantes y Lo hemos situado wyn memori alttpo aesta parte en pazifica posicion de taler nobles hifor dalgo de Sanque Christianos Viefor yano tenido los empleos de ofizio honori ficos que empaaz, y Guenxa se comunican alos que con Casalleros nobles hifor dalgo de Sanque yparalor efectos que me Conueno an atento esto yproximo d hazex Viafe al Reyno del Le ru y Zuidad de Lima. Atm pido yruplico seriua mandax se me Nziua Informacion que Incontinente ofuz co althenox deertte pedimento Con Littazion delfiel Sindico y Nidox deertta Silla en nom bre deella yru conzelo, yre compulisen lapartida de Bauptismo y Casados que yo Senallane Con la misma Littazion delor libror delas Laxro quia ler Unidar deertta Silla Despachandore el exorito nezeraxio yecho quereatodoreme den los trarlados que pidiene Signados, yen autentica forma Interponiendo Vm ru Autoridad y Judizial decretto, mediana",
+    "ocr_bands": [
+      "enla Villa de Lexain. Todas cuatro enrestante fexida Lxouinzia Tenidas y Npuadas portales Casas Solaxioas, y dela deszendenzía delas pri ditinouidas familias de Lobladores",
+      "mexas y distinciónas familias de oblados de ella, y Como tales mi Ladies Abuelos, y demas aczendientes y Lo hemos Lituado Lyn memori alttpó aertura parte en pazifica posición de",
+      "Tales nobles hisp. daloo desangue Christianos Viejos yano tenido los empleos de ofizio honori ficos que enparz, y Guerrra secomunican alosque",
+      "son Caualleros nobles hipor daloo desanoxe ypaxalo, efectos que me Conuenoan atento esto ypoximo d harez Viafe al Reyno del Le iu y Lidad de Lima.",
+      "Alm pido y suplico seriua mandaxe me Nziua Informacion que Incontinente ofuz co althenox deerte pedimento Con Liazion delfiel Sindico y Nidox deerta Silla ennom",
+      "del fuel Pindico y Uidox deertta Silla en nom bre deella yru conzep, y recompulsen lapartida de Bauptiismo y Casados queyo Senallare Con la misma Littazion delo libro delas Laxroqua",
+      "les Vididas deertta Silla Despachandose el exoruto nezeraxio yecho qureatodo seme den los trarlados que pidien Sionados, yon",
+      "autentica forxma Interponiendo 20m 1u Autoridad y Judizial decreto, mediante"
+    ],
+    "corrected_mistral": "en la Villa de Lexain. Todas quatro eneritas, fexida Lrouinzia, tenidas y reputadas por tales Casas Solares, y de la descendencia de las primeras y distinguidas familias de pobladores de ella, y como tales mis padres, abuelos, y demas ascendientes y lo hemos continuado sin memoria al tiempo a esta parte en pacífica posesión de tales nobles hijosdalgo de sangre Christianos Viejos y no tenido los empleos de oficios honoríficos que en paz, y guerra se comunican a los que son cavalleros nobles hijosdalgo de sangre y para los efectos que me convengan atento esto y próximo de hazer viaje al Reyno del Perú y ciudad de Lima. A vm pido y suplico se sirva mandar se me reciba información que incontinente ofrezco al thenor de este pedimento con citación del fiel Síndico y Procurador de esta Villa en nombre de ella y se compulsen la partida de Baptismo y Casados que yo señalare con la misma citación de los libros de las parroquias que fueren necesarias de esta Villa despachándose el despacho necesario y hecho que sea todo se me den los traslados que pidiere signados, y en auténtica forma interponiendo vm su autoridad y judicial decreto, mediante"
+  },
+  {
+    "page_num": 3,
+    "image_path": "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003.png",
+    "band_paths": [
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_01.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_02.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_03.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_04.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_05.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_06.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_07.png",
+      "C:\\Users\\aarus\\Desktop\\ocr\\outputs\\doc1\\pages\\page_0003_band_08.png"
+    ],
+    "ocr_full": "Littoi prompto apagar lori deiudos diroi quettodo Corner ponde de sustizia uppaxalo nezeraxio Imploro el noble Ofizio deromito a om Cett: Andrevo Miquinza De' era parte la información que ofrece y ve compulven desovitibos vee av Cleviav Paxoqualeen de Sta va la partida av de Baip de Carra- da que venalaxe Despachandove para ello el despacho desovoxto enla$for- ma ordinaria y todo vea con citation ceefiel Vindicio Regidor de esta va en nombre de ella y vu conveteo echo ve txayqa para proueher Avilo mando J frimo evenor Pan. Antonio de Alazarual Alcalde ordina- xio de esta va de Elgoybar en ella a- veinte y guata de febreo cee ano ce. mjt veteientou y quarenta y guato= Alazarual Antenn Sanvi de Bas aguen",
+    "ocr_bands": [
+      "Littoi prompto apaixon loi deiudos diro quettodo Conserponde de Surtizia uppaxalo nezeraxio Emploxo el noble fuzio dermto = om = C = H=",
+      "инженер Мигухшза",
+      "De' esta paxte la informacion",
+      "que exeze y vecompulven oelov libros vee av Gleviav Paxoqualeen de Sta va la partida de Bayp de Cava- k venalaxe Devpachandove para",
+      "du que Venalaxe Despaeran ello el despacho OCCORRO enla ma ordnanza todo Vea con citation eeefiel Virdico Regidor cierta V.a vu conveseo",
+      "en nombre oella J u convener echo ve txayga para pxoucher Avilo mano J fimo evenor J pan de Alcalde Ordina Alazarual",
+      "Antonio de Aldara xio Oeerva v.aoe Elogy bar enelta a- Veinte Jiguato defebexo cee ano cee. mit veteccientov guarenta Jiguato=",
+      "Antem Janvi, de Basquin"
+    ],
+    "corrected_mistral": "Litigo pronto apagar los deudos diré que todo corresponde de justicia uppaxalo necesario. Imploro el noble oficio de vm. Cett: Andreo Miquinza de esta parte la información que ofrece y se compulsen de los libros vee en Gleviav Pasqual en de Sta va la partida de Baptismo de Carrada que señalare. Despachándose para ello el despacho necesario en la forma ordinaria y todo sea con citación del fiel Síndico Regidor de esta Villa en nombre de ella y vuestro convecino hecho se traiga para proveher. A vm mando y firmo evenor Pan Antonio de Alçaraual Alcalde ordinario de esta Villa de Elgoybar en ella a veinte y quatro de febrero de este año de mil y seiscientos y quarenta y quatro. Alçaraual Antemi Sanvi de Basquin"
+  }
+]

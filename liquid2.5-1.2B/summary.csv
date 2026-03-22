@@ -1,0 +1,6 @@
+source,pages,gt_path,raw_cer,raw_wer,raw_exact_line_rate,corrected_cer,corrected_wer,corrected_exact_line_rate
+doc1,3,C:\Users\aarus\Desktop\ocr\ground-truth\doc1_transcription.txt,0.23356401384083045,0.696078431372549,0.0,0.486159169550173,0.7549019607843137,0.0
+doc2,3,C:\Users\aarus\Desktop\ocr\ground-truth\doc2_transcription.txt,0.10194902548725637,0.42933333333333334,0.0,0.5442278860569715,0.768,0.0
+doc3,11,C:\Users\aarus\Desktop\ocr\ground-truth\doc3_transcription.txt,0.177007299270073,0.62,0.0,0.36222627737226276,0.695,0.0
+doc4,15,C:\Users\aarus\Desktop\ocr\ground-truth\doc4_transcription.txt,0.19150641025641027,0.5083333333333333,0.0,0.359775641025641,0.6125,0.0
+doc5,3,C:\Users\aarus\Desktop\ocr\ground-truth\doc5_transcription.txt,0.12916006339144215,0.3894230769230769,0.0,0.18858954041204437,0.40865384615384615,0.0
